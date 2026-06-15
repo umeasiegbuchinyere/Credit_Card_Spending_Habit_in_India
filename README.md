@@ -49,3 +49,32 @@ decision-making.
 - Dashboard Design – Created an interactive and user-friendly dashboard for effective decision-making.
 - Analytical Thinking – Transformed raw transaction data into actionable business insights.
 - Data Storytelling – Communicated spending trends and patterns through visual reports and dashboards.
+
+## Data Analysis
+Monthly spending trend analysis, city-wise spending analysis, gender-based spending analysis, card type performance analysis, expense category analysis, 
+and KPI analysis to identify spending patterns, customer behavior, and key business insights from credit card transaction data
+
+## Visualisations
+
+<img width="988" height="562" alt="Dashboard" src="https://github.com/user-attachments/assets/e4fe3bb4-b9bb-4988-b876-cab7c3f1d15f" />
+
+
+## Insights From Analysis
+- High Credit Card Usage Across India
+Total spending exceeded 4 billion, indicating significant credit card adoption and transaction activity across the country.
+- Wide Geographic Coverage
+Transactions were recorded across 986 cities, showing that credit card usage is widespread and not limited to a few locations.
+- Major Cities Drive Spending
+Cities such as Bengaluru, Ahmedabad, and Delhi contributed the highest spending amounts, suggesting stronger purchasing power and card usage in urban areas.
+- Everyday Expenses Dominate Spending
+Categories such as Food, Fuel, Bills, and Grocery accounted for the largest share of spending, indicating that consumers primarily use credit cards for routine
+ and essential purchases.
+- Balanced Spending Across Genders
+Spending by male and female cardholders was relatively balanced, showing similar levels of participation in credit card transactions.
+- Silver Cards Have the Highest User Base
+Silver cardholders represented the largest proportion of users, suggesting that standard credit card products are more widely adopted than premium offerings.
+- Stable Spending Pattern Throughout the Year
+Monthly spending remained relatively consistent for most of the year, indicating steady credit card usage.
+- Noticeable Decline in Later Months
+A decline in spending was observed towards the end of the period, which may indicate seasonal spending behavior or changes in consumer purchasing habits.
+
