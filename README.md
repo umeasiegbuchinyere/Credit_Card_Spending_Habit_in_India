@@ -105,4 +105,14 @@ and KPI analysis to identify spending patterns, customer behavior, and key busin
   - Monitor spending trends regularly to identify seasonal changes and adjust business strategies accordingly.
 
   - Use customer spending insights to personalize offers and promotions, improving customer satisfaction and retention.
+ 
+
+
+
+## Back to Top
+
+
+
+
+[Table of Content](#Table-of-Content)
 
