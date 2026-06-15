@@ -17,3 +17,7 @@
 - [Recommendations](#Recommendations)
 
 ## Project Overview
+This project analyzes credit card spending patterns across India to uncover trends in customer behavior, spending categories, and regional transaction activity. 
+The analysis reveals that everyday expenses such as Food, Fuel, Bills, and Grocery account for the largest share of spending, while major cities contribute 
+significantly to overall transaction value. The insights generated can support better business decisions, customer targeting, and strategic planning within 
+the financial services sector.
