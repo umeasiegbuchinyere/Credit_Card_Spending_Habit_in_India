@@ -21,3 +21,31 @@ This project analyzes credit card spending patterns across India to uncover tren
 The analysis reveals that everyday expenses such as Food, Fuel, Bills, and Grocery account for the largest share of spending, while major cities contribute 
 significantly to overall transaction value. The insights generated can support better business decisions, customer targeting, and strategic planning within 
 the financial services sector.
+
+## Data Source
+A publicly available credit card transactions dataset representing spending activities across various cities in India. The dataset includes transaction amounts, 
+card types, expense categories, customer gender, and geographical information used for analytical and visualization purposes.
+
+## Problem Statement
+Understanding customer spending behavior is essential for banks and credit card providers seeking to improve customer engagement and business performance. 
+However, the large volume of transaction data often makes it challenging to identify meaningful trends and insights. This project analyzes credit card 
+transactions across India to identify spending patterns, top spending categories, customer segments, and regional trends that can support data-driven 
+decision-making.
+
+## Tools Used
+- Microsoft Excel – Initial data review and familiarization.
+- Power BI – Data visualization and dashboard development.
+- Power Query – Data cleaning, transformation, and preparation.
+- DAX (Data Analysis Expressions) – Creation of calculated measures and KPIs.
+
+## Skills Demonstrated
+- Data Cleaning and Transformation – Cleaned and standardized the city data by removing "India" from the city column to improve readability and analysis.
+- Feature Engineering – Created a new Month Name column from the Date field to enable monthly trend analysis.
+- DAX Measures Development – Built custom measures to calculate key performance indicators (KPIs) such as Total Spending and Unique Cities.
+- Data Modeling – Structured the dataset to support accurate calculations and reporting.
+- Business Intelligence Reporting – Developed meaningful metrics to monitor spending patterns and customer behavior.
+- Data Visualization – Presented KPIs and insights using cards, charts, and interactive visuals in Power BI.
+- Exploratory Data Analysis (EDA) – Analyzed spending trends across cities, genders, card types, and expense categories.
+- Dashboard Design – Created an interactive and user-friendly dashboard for effective decision-making.
+- Analytical Thinking – Transformed raw transaction data into actionable business insights.
+- Data Storytelling – Communicated spending trends and patterns through visual reports and dashboards.
